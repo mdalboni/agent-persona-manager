@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Agent Persona Manager",
+    "description": "Sanitizes system prompts and hides framework identifiers."
+  }
+}
