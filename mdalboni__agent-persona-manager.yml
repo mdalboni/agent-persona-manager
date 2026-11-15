@@ -1,0 +1,6 @@
+url: https://github.com/mdalboni/agent-persona-manager
+name: mdalboni/agent-persona-manager
+category: privacy
+description:
+  en: 'Intercepts system prompt assembly to sanitize framework identity references, maintaining agent neutrality.'
+  pt: 'Intercepta a montagem do system prompt para sanitizar referências de identidade do framework, mantendo a neutralidade do agente.'
